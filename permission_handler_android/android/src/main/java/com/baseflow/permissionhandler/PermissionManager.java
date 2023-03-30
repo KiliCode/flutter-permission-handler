@@ -513,4 +513,3 @@ final class PermissionManager implements PluginRegistry.ActivityResultListener, 
         return names != null || !names.isEmpty();
     }
 }
-}
